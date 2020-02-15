@@ -1,37 +1,97 @@
-## Welcome to GitHub Pages
+## Руководство по рисованию Билла Мартина
 
-You can use the [editor on GitHub](https://github.com/konstantin-morenko/martin-guide-to-drawing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Перевод Константин Моренко.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Оригинал взят с сайта [http://guidetodrawing.com/](http://guidetodrawing.com/).
 
-### Markdown
+Почему я взялся за этот сайт?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Содержание
 
-```markdown
-Syntax highlighted code block
+#### Начинаем
 
-# Header 1
-## Header 2
-### Header 3
+- Materials
+- Basic Drawing Techniques
+- Guidelines
+- Angles and Proportions
+- Some Basic Artistic Terms
 
-- Bulleted
-- List
+#### Базовые фигуры и формы
 
-1. Numbered
-2. List
+    Silhouette and Line
+    Basic Two-Dimensional Shapes
+    Basic Three-Dimensional Forms
+    Perspective and the Cube
+    Exercises
 
-**Bold** and _Italic_ and `Code` text
+#### Объем и иллюзия формы
 
-[Link](url) and ![Image](src)
-```
+    Defining the Basic Forms with Value
+    Negative Forms
+    Exercises
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Контраст
 
-### Jekyll Themes
+    Creating the Illusion of Distance and Depth
+    Reflected LIght
+    Distinguishing Concave from Convex
+    Value Contrast and the Quality of Light
+    Exercises
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/konstantin-morenko/martin-guide-to-drawing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Отбрасывая тень
 
-### Support or Contact
+    Cast Shadows and Three-Dimensional Form
+    Length and Direction of Cast Shadows
+    Proximity Shadows
+    Exercises
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Текстура
+
+    How Light Defines Texture
+    The Importance of the Light Source
+    Distinguishing Texture
+    Exercises
+
+#### Отражение
+
+    Value and the Reflecting Surface
+    The Angle of Reflections
+    Size and Shape of Reflections
+    Reflections in Water
+    Exercises
+
+#### Прозрачность
+
+    Hollow vs. Solid Transparent Objects
+    Distortions
+    Creating the Illusion of Transparency
+    Exercises
+
+#### Эллиптическая перспектива
+
+    Minor and Major Axes
+    Seeing Different Shapes in Elliptical Perspective
+    Using Ellipses to Define Surface Contours
+    The Major Axis and Surface Contour
+    Other Indicators of the Angles of Planes
+    Exercises
+
+#### Линейная перспектива
+
+    Basic Concepts and Terminology
+    One Point Perspective
+    Two-Point Perspective
+    Three Point Perspective
+    Exercises
+
+#### Композиция
+
+    Five Basic Features of Composition
+    Linear Composition
+    Four Types of Linear Composition
+    Value Composition
+    Texture Composition
+    The Vignette Composition
+    Exercises
+
+#### О Билле Мартине
