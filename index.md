@@ -10,88 +10,88 @@
 
 #### Начинаем
 
-- Materials
-- Basic Drawing Techniques
-- Guidelines
-- Angles and Proportions
-- Some Basic Artistic Terms
+- Материалы
+- Основные принципы рисования
+- Направляющие линии
+- Углы и пропорции
+- Немного основных художественных терминов
 
 #### Базовые фигуры и формы
 
-- Silhouette and Line
-- Basic Two-Dimensional Shapes
-- Basic Three-Dimensional Forms
-- Perspective and the Cube
-- Exercises
+- Силуэт и линия
+- Базовые двумерные формы
+- Базовые трехмерные формы
+- Перспектива и Куб
+- Упражнения
 
 #### Объем и иллюзия формы
 
-- Defining the Basic Forms with Value
-- Negative Forms
-- Exercises
+- Создание объема для базовых форм
+- Обратные формы
+- Упражнения
 
 #### Контраст
 
-- Creating the Illusion of Distance and Depth
-- Reflected LIght
-- Distinguishing Concave from Convex
-- Value Contrast and the Quality of Light
-- Exercises
+- Создание иллюзии расстояния и глубины
+- Отраженный свет
+- Отличия вогнутого от выпуклого
+- Значение контраста и качество света
+- Упражнения
 
 #### Отбрасывая тень
 
-- Cast Shadows and Three-Dimensional Form
-- Length and Direction of Cast Shadows
-- Proximity Shadows
-- Exercises
+- Отбрасываемая тень и трехмерная форма
+- Длина и направление отброшенной тени
+- Тени близости
+- Упражнения
 
 #### Текстура
 
-- How Light Defines Texture
-- The Importance of the Light Source
-- Distinguishing Texture
-- Exercises
+- Как свет определяет текстуру
+- Важность источника света
+- Отличия текстур
+- Упражнения
 
 #### Отражение
 
-- Value and the Reflecting Surface
-- The Angle of Reflections
-- Size and Shape of Reflections
-- Reflections in Water
-- Exercises
+- Объем и отражающая поверхность
+- Угол отражения
+- Размер и форма отражения
+- Отражения в воде
+- Упражнения
 
 #### Прозрачность
 
-- Hollow vs. Solid Transparent Objects
-- Distortions
-- Creating the Illusion of Transparency
-- Exercises
+- Пустые и полные прозрачные объекты
+- Искажение
+- Создание иллюзии прозрачности
+- Упражнения
 
 #### Эллиптическая перспектива
 
-- Minor and Major Axes
-- Seeing Different Shapes in Elliptical Perspective
-- Using Ellipses to Define Surface Contours
-- The Major Axis and Surface Contour
-- Other Indicators of the Angles of Planes
-- Exercises
+- Основная и вспомогательная оси
+- Видение различных форма в эллиптической перспективе
+- Использование эллипсов для определения контуров поверхности
+- Основные оси и контур поверхности
+- Другие индикаторы углов и плоскостей
+- Упражнения
 
 #### Линейная перспектива
 
-- Basic Concepts and Terminology
-- One Point Perspective
-- Two-Point Perspective
-- Three Point Perspective
-- Exercises
+- Базовые концепции и терминология
+- Одноточечная перспектива
+- Двухточечная перспектива
+- Трехточечная перспектива
+- Упражнения
 
 #### Композиция
 
-- Five Basic Features of Composition
-- Linear Composition
-- Four Types of Linear Composition
-- Value Composition
-- Texture Composition
-- The Vignette Composition
-- Exercises
+- Пять базовых свойств композиции
+- Линейная композиция
+- Четыре типа линейной композиции
+- Композиция объема
+- Композиция текстуры
+- Виньетная композиция
+- Упражнения
 
 #### О Билле Мартине
